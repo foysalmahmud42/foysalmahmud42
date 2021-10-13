@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foysalmahmud42
+- 👋 Hi, I’m Foysal Mahmud Hasan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on Autonomus Car
